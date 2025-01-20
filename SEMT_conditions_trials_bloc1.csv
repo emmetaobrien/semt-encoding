@@ -1,0 +1,33 @@
+﻿trial,ID,Weight,Procedure,Nested,cat1,pic1,cat2,pic2,big_cans,cat_cans,question_french,question_english,cans,condition,duration_question,duration_fixation,left,right,type
+6,1,1,TrialBloc1,,4,Images/smokedsalmon.jpg,20,Images/porsche.jpg,2,2,Catégorie?,Category?,2,8,4700,4300,Left_cr1.jpg,right_cr.jpg,block1
+7,2,1,TrialBloc1,,9,Images/ring01.jpg,18,Images/cobra.jpg,2,2,Plus gros?,Bigger?,2,6,4500,6000,Left_cr1.jpg,right_cr.jpg,block1
+8,3,1,TrialBloc1,,5,Images/chisel02b.jpg,4,Images/casabamelon.jpg,2,2,Catégorie?,Category?,2,8,5300,3400,Left_cr1.jpg,right_cr.jpg,block1
+9,4,1,TrialBloc1,,20,Images/cementmixertruck.jpg,21,Images/arrow02.jpg,1,2,Catégorie?,Category?,2,8,4000,4200,Left_cr1.jpg,right_cr.jpg,block1
+10,5,1,TrialBloc1,,23,Images/riverotter.jpg,23,Images/platypus.jpg,2,1,Catégorie?,Category?,1,4,5800,3400,Left_cr1.jpg,right_cr.jpg,block1
+11,6,1,TrialBloc1,,1,Images/strainer02.jpg,7,Images/lipstick02a.jpg,1,2,Plus gros?,Bigger?,1,6,6500,3600,Left_cr1.jpg,right_cr.jpg,block1
+12,7,1,TrialBloc1,,3,Images/toysheep.jpg,11,Images/hen.jpg,2,2,Plus gros?,Bigger?,2,6,5600,3000,Left_cr1.jpg,right_cr.jpg,block1
+13,8,1,TrialBloc1,,1,Images/expressomachine.jpg,1,Images/peppermill02b.jpg,1,1,Catégorie?,Category?,1,4,4400,5600,Left_cr1.jpg,right_cr.jpg,block1
+14,9,1,TrialBloc1,,23,Images/sandbarshark.jpg,23,Images/killerwhale01.jpg,2,1,Catégorie?,Category?,1,4,3200,7700,Left_cr1.jpg,right_cr.jpg,block1
+15,10,1,TrialBloc1,,4,Images/celery.jpg,4,Images/potato02b.jpg,1,1,Plus gros?,Bigger?,1,2,3300,6200,Left_cr1.jpg,right_cr.jpg,block1
+16,11,1,TrialBloc1,,2,Images/powercable.jpg,4,Images/rawchicken.jpg,2,2,Plus gros?,Bigger?,2,6,5600,5200,Left_cr1.jpg,right_cr.jpg,block1
+17,12,1,TrialBloc1,,16,Images/mantaray.jpg,8,Images/cap01a.jpg,1,2,Plus gros?,Bigger?,1,6,4000,6400,Left_cr1.jpg,right_cr.jpg,block1
+18,13,1,TrialBloc1,,4,Images/blackolives.jpg,4,Images/redonion.jpg,2,1,Catégorie?,Category?,1,4,6900,4600,Left_cr1.jpg,right_cr.jpg,block1
+19,14,1,TrialBloc1,,5,Images/visegrippliers.jpg,9,Images/necklace.jpg,1,2,Plus gros?,Bigger?,1,6,3300,6700,Left_cr1.jpg,right_cr.jpg,block1
+20,15,1,TrialBloc1,,6,Images/paperorganizer.jpg,6,Images/envelope03a.jpg,1,1,Plus gros?,Bigger?,1,2,6400,3800,Left_cr1.jpg,right_cr.jpg,block1
+21,16,1,TrialBloc1,,19,Images/harmonica.jpg,19,Images/congadrum.jpg,2,1,Plus gros?,Bigger?,2,2,3600,7100,Left_cr1.jpg,right_cr.jpg,block1
+22,17,1,TrialBloc1,,1,Images/rollingpin01a.jpg,1,Images/fork03c.jpg,1,1,Catégorie?,Category?,1,4,7800,6400,Left_cr1.jpg,right_cr.jpg,block1
+23,18,1,TrialBloc1,,2,Images/television.jpg,1,Images/grater01a.jpg,1,2,Plus gros?,Bigger?,1,6,5000,7400,Left_cr1.jpg,right_cr.jpg,block1
+24,19,1,TrialBloc1,,2,Images/ipod.jpg,11,Images/heron01.jpg,2,2,Catégorie?,Category?,2,8,7600,3200,Left_cr1.jpg,right_cr.jpg,block1
+25,20,1,TrialBloc1,,7,Images/compactpowder.jpg,7,Images/comb02a.jpg,2,1,Catégorie?,Category?,1,4,3900,6500,Left_cr1.jpg,right_cr.jpg,block1
+26,21,1,TrialBloc1,,4,Images/blueberry01.jpg,2,Images/wiicontroller.jpg,2,2,Catégorie?,Category?,2,8,7500,7900,Left_cr1.jpg,right_cr.jpg,block1
+27,22,1,TrialBloc1,,20,Images/cruiseboat.jpg,20,Images/battleship.jpg,1,1,Plus gros?,Bigger?,1,2,4400,5500,Left_cr1.jpg,right_cr.jpg,block1
+28,23,1,TrialBloc1,,21,Images/suitofarmor.jpg,21,Images/centurionhelmet.jpg,1,1,Plus gros?,Bigger?,1,2,6300,3700,Left_cr1.jpg,right_cr.jpg,block1
+29,24,1,TrialBloc1,,20,Images/convertible.jpg,4,Images/onionring.jpg,1,2,Plus gros?,Bigger?,1,6,5300,5000,Left_cr1.jpg,right_cr.jpg,block1
+30,25,1,TrialBloc1,,23,Images/dolphin01.jpg,23,Images/narwhal.jpg,1,1,Plus gros?,Bigger?,1,2,7100,5200,Left_cr1.jpg,right_cr.jpg,block1
+31,26,1,TrialBloc1,,14,Images/seahorse.jpg,4,Images/pizza.jpg,2,2,Plus gros?,Bigger?,2,6,3100,7000,Left_cr1.jpg,right_cr.jpg,block1
+32,27,1,TrialBloc1,,11,Images/barnowl.JPG,11,Images/americanwhitepelican.JPG,2,1,Catégorie?,Category?,1,4,7900,6700,Left_cr1.jpg,right_cr.jpg,block1
+33,28,1,TrialBloc1,,21,Images/shield02.jpg,21,Images/harpoon.jpg,1,1,Plus gros?,Bigger?,1,2,3200,3300,Left_cr1.jpg,right_cr.jpg,block1
+34,29,1,TrialBloc1,,6,Images/folder03a.jpg,6,Images/mechanicalpencil02.jpg,1,1,Catégorie?,Category?,1,4,4700,6600,Left_cr1.jpg,right_cr.jpg,block1
+35,30,1,TrialBloc1,,5,Images/scraper01.jpg,18,Images/gorilla.jpg,2,2,Catégorie?,Category?,2,8,7500,7200,Left_cr1.jpg,right_cr.jpg,block1
+36,31,1,TrialBloc1,,2,Images/vhstape.jpg,2,Images/cable01.jpg,1,1,Catégorie?,Category?,1,4,5400,4000,Left_cr1.jpg,right_cr.jpg,block1
+37,32,1,TrialBloc1,,7,Images/hairdryer02a.jpg,18,Images/pig.jpg,2,2,Catégorie?,Category?,2,8,6600,7000,Left_cr1.jpg,right_cr.jpg,block1
