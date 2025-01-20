@@ -1,0 +1,6 @@
+﻿trial,ID,Weight,Procedure,Nested,cat1,pic1,cat2,pic2,big_cans,cat_cans,question_french,question_english,cans,condition,duration_question,duration_fixation,left,right,type
+1,1,1,TrialPractice,,2,Images/aliment-44.jpg,2,Images/aliment-18.jpg,8888,8888,Catégorie?,Category?,1,8888,3000,3000,Left_cr1.jpg,right_cr.jpg,training
+2,2,1,TrialPractice,,2,Images/divers-112.jpg,2,Images/transport-08.jpg,8888,8888,Catégorie?,Category?,2,8888,3000,3000,Left_cr1.jpg,right_cr.jpg,training
+3,3,1,TrialPractice,,2,Images/bureau-20.jpg,2,Images/bureau-23.jpg,8888,8888,Plus gros?,Bigger?,2,8888,3000,3000,Left_cr1.jpg,right_cr.jpg,training
+4,4,1,TrialPractice,,2,Images/mammifere-13.jpg,2,Images/mammifere-11.jpg,8888,8888,Plus gros?,Bigger?,1,8888,3000,3000,Left_cr1.jpg,right_cr.jpg,training
+5,5,1,TrialPractice,,2,Images/sportssock.jpg,2,Images/sport-31.jpg,8888,8888,Catégorie?,Category?,2,8888,3000,3000,Left_cr1.jpg,right_cr.jpg,training
